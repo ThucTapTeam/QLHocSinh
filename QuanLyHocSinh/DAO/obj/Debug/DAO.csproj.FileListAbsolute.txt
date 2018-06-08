@@ -1,0 +1,11 @@
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\DAO\bin\Debug\DAO.dll
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\DAO\bin\Debug\DAO.pdb
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\DAO\obj\Debug\DAO.dll
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAO\obj\Debug\DAO.pdb

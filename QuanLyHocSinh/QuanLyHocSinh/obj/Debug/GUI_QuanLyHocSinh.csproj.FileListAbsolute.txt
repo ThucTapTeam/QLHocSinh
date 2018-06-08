@@ -1,0 +1,71 @@
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\GUI_QuanLyHocSinh.csprojResolveAssemblyReference.cache
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Properties.Resources.resources
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\GUI_QuanLyHocSinh.csproj.GenerateResource.Cache
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.pdb
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\DAL.dll
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\DAL.pdb
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmMain.resources
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.exe
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.pdb
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmBangDiem.resources
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmGiaoVien.resources
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmHanhKiem.resources
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmHanhKiemHS.resources
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmHocSinh.resources
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmKetQuaHocTap.resources
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmMonHoc.resources
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmThongTinGiangDay.resources
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\DAO.dll
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\DAO.pdb
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmLogin.resources
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmLopHoc.resources
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.pdb
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\DAO.dll
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\DAO.pdb
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\GUI_QuanLyHocSinh.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmLogin.resources
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmBangDiem.resources
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmGiaoVien.resources
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmHanhKiem.resources
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmHocSinh.resources
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmKetQuaHocTap.resources
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmLopHoc.resources
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmMain.resources
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmMonHoc.resources
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmThongTinGiangDay.resources
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmHanhKiemHS.resources
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Properties.Resources.resources
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\GUI_QuanLyHocSinh.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\GUI_QuanLyHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.exe
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\DAO.dll
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\DAO.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\GUI_QuanLyHocSinh.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmLogin.resources
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmBangDiem.resources
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmGiaoVien.resources
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmHanhKiem.resources
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmHocSinh.resources
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmKetQuaHocTap.resources
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmLopHoc.resources
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmMain.resources
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmMonHoc.resources
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmThongTinGiangDay.resources
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmHanhKiemHS.resources
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Properties.Resources.resources
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\GUI_QuanLyHocSinh.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\GUI_QuanLyHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.exe
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.pdb

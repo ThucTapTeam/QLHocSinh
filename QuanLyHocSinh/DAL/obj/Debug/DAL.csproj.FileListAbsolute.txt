@@ -1,0 +1,23 @@
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\DAL\bin\Debug\DAL.dll
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\DAL\bin\Debug\DAL.pdb
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\DAL\obj\Debug\DAL.dll
+c:\users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\DAL\obj\Debug\DAL.pdb
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\DAL\bin\Debug\DAO.dll
+C:\Users\buing\onedrive\documents\visual studio 2015\Projects\QuanLyHocSinh\DAL\bin\Debug\DAO.pdb
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\bin\Debug\DAO.dll
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\bin\Debug\DAO.pdb
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Downloads\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\bin\Debug\DAO.dll
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\bin\Debug\DAO.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\Quản Lý Học Sinh_BNT\Quản Lý Học Sinh\QuanLyHocSinh\DAL\obj\Debug\DAL.pdb
