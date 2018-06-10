@@ -15,3 +15,9 @@ G:\C#\New folder (3)\QLHocSinh\QuanLyHocSinh\DAO\obj\Debug\DAO.csprojResolveAsse
 G:\C#\New folder (3)\QLHocSinh\QuanLyHocSinh\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
 G:\C#\New folder (3)\QLHocSinh\QuanLyHocSinh\DAO\obj\Debug\DAO.dll
 G:\C#\New folder (3)\QLHocSinh\QuanLyHocSinh\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAO\obj\Debug\DAO.pdb
