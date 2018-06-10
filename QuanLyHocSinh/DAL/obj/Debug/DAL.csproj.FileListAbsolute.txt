@@ -29,3 +29,11 @@ G:\C#\New folder (3)\QLHocSinh\QuanLyHocSinh\DAL\obj\Debug\DAL.csprojResolveAsse
 G:\C#\New folder (3)\QLHocSinh\QuanLyHocSinh\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 G:\C#\New folder (3)\QLHocSinh\QuanLyHocSinh\DAL\obj\Debug\DAL.dll
 G:\C#\New folder (3)\QLHocSinh\QuanLyHocSinh\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAL\bin\Debug\DAO.dll
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAL\bin\Debug\DAO.pdb
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Downloads\Kỳ 2 năm 3\Thực tập nhóm_TH14\QLHocSinh\QLHocSinh\QuanLyHocSinh\DAL\obj\Debug\DAL.pdb

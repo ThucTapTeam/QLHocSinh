@@ -41,10 +41,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClassConnection.cs" />
+    <Compile Include="DALBangDiem.cs" />
     <Compile Include="DALGiaoVien.cs" />
     <Compile Include="DALHanhKiem.cs" />
     <Compile Include="DALHanhKIemHS.cs" />
     <Compile Include="DALHocSinh.cs" />
+    <Compile Include="DALKetQuaHocTap.cs" />
+    <Compile Include="DALLopHoc.cs" />
+    <Compile Include="DALMonHoc.cs" />
+    <Compile Include="DALThongTinGiangDay.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
