@@ -25,7 +25,7 @@ namespace QuanLyHocSinh
             else
                 PhanQuyen(false);
         }
-        DALHanhKiem dal_hk = new DALHanhKiem();
+        DALHanhKIem dal_hk = new DALHanhKIem();
         bool check = false;
 
         private void FormatData()

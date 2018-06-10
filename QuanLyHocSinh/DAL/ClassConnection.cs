@@ -11,7 +11,7 @@ namespace DAL
     public class ClassConnection
     {
         private Exception ex = new Exception();
-        static string ConnectionString = @"Data Source=.\SQLEXPRESS;Initial Catalog=ThucTapNhom_2;Integrated Security=True";
+        static string ConnectionString = @"Data Source=DESKTOP-SSCJKUR;Initial Catalog=ThucTapNhom_2;Integrated Security=True";
         SqlConnection con;
         public void OpenConection()
         {
